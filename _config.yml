@@ -22,7 +22,7 @@ name                     : "Meysam Asgari"
 description              : "My personal website"
 url                      : "https://meysamasgari.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "meysamasgari/meysamasgari.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "MeysamAsgari/meysamasgari.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -100,10 +100,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jessica Walkenhorst"
+  name             : "Meysam Asgari"
   avatar           : "/images/me.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ever tried, ever failed, no matter. Try again, fail again, fail better."
-  location         : "London, UK"
+  location         : "Tehran, IR"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
