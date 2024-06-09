@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en"
-title                    : "Tales of One Thousand and One Data"
+title                    : "Data Warrior"
 title_separator          : "-"
 name                     : "Meysam Asgari"
 description              : "My personal website"
@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Meysam Asgari"
   avatar           : "/images/me.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ever tried, ever failed, no matter. Try again, fail again, fail better."
+  bio              : "To go forward, you have to leave something behind."
   location         : "Tehran, IR"
   email            :
   uri              :
