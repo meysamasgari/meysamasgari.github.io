@@ -6,12 +6,8 @@ title: Hello! 👋
 authorprofile: true
 ---
 
-I am Jessica. I hold a PhD in computational physics and work as a Data Scientist. Originally, I am from Germany, but after having spent some time living in Mexico, Spain and Scotland, I now live in London, UK (at least for the moment).
+## &#x270d; the dark side of being just me
+Hey...Dear friends...Welcome 😍 I am Meysam. An INFJ personality type. Yeah! got the idea? What is wrong with me? 🤷🏻 I mean an idealist that has a dream of doing big works, you know, not that big, but very very big! Cry me a river! And my problem is this imperfect world. Hopefully maybe someday I would make some contributions and help.Actually this qoute is very inspring for me "To go forward you have to leave something behind". I remember that from an emotional scene from Interstellar movie which I think offer the Newton's first law. Anyway, I love that statement.
 
-I sneeze a lot and love horrible jokes. Here is one of my favourite coding related ones: "! False" (it's funny because it's true).
-
-## 📫 Where to find me
-On the internet, you can find me on [LinkedIn](https://www.linkedin.com/in/jessica-walkenhorst/) or here. IRL, you can find me co-organizing [London's PyData Meetup](https://www.meetup.com/pydata-london-meetup/), data-diving for [DataKindUK](https://datakind.org.uk/) or practicing my Judo moves. So if you meet me at any of these events, come and say hi. Extra credit if you bring a joke! 😄
-
-## &#x270d; Blog & Writing
-In my spare time I like to learn new technologies and play around with data. Every so often I will blog about my experience doing so - You can find my articles here as well as on [Medium](https://medium.com/@walkenho).
+## &#x270d; another piece of me
+Wait a moment! If you are interested in intelligent systems, maytbe you find anything new or innovative in my posts that can help you. My major is Business Intelligence(BI). I have an enthusiasm about data-driven intelligent systems. Yes! Systrms that fed by data and AI algorithms to demonstrate extraaaa...wait for it... ordinary capabilities/features. 
