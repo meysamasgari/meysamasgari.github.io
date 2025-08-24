@@ -1,10 +1,10 @@
 ---
-title: How to download from youtube via python(yt_dlp)
+title: How to download from youtube via python
 tags:
   - youtbue
   - yt_dlp
   - python
-excerpt: Download Video/Playlist/Music from Youtube in best quality with embedded subtitles via python(yt_dlp)
+excerpt: Download Video/Playlist/Music from Youtube in best quality with embedded subtitles
 ---
 
 If you are interested, you can find the latest update in [utdl repository](https://github.com/meysamasgari/utdl)
