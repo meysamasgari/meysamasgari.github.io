@@ -4,7 +4,7 @@ tags:
   - youtbue
   - yt_dlp
   - python
-excerpt: Download Video/Playlist/Music from Youtube in best quality with embedded subtitles
+excerpt: Download Video/Playlist/Music from youtube in best quality with embedded subtitles
 ---
 
 If you are interested, you can find the latest update in [utdl repository](https://github.com/meysamasgari/utdl)
@@ -15,7 +15,7 @@ Here is a summary of the main functionality.
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/yt-dlp-diagram.jpg" alt="" width="100%">
-    <figcaption>Download from Youtube via yt_dlp)</figcaption>
+    <figcaption>Download from youtube via yt_dlp</figcaption>
 </figure>
 
 # MAC OS
