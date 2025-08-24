@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en"
-title                    : "Data Warrior"
+title                    : "System Developer"
 title_separator          : "-"
 name                     : "Meysam Asgari"
 description              : "My personal website"
