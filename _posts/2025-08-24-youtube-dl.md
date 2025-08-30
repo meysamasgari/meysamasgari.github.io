@@ -22,6 +22,7 @@ Here is a summary of the main functionality.
 ## Installation
 
 1. check [python](https://www.python.org/downloads/)
+
 python3 --version 
 
 2. install yt_dlp
@@ -29,6 +30,7 @@ sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o
 sudo chmod a+rx /usr/local/bin/yt-dlp
 
 3. download ffmpeg [binary file](https://www.ffmpeg.org/download.html)
+
 note: no install needed. just it's binary is enough. give the binary path in command
 
 ## Example 1 (Dowload video/playlist with subtitle using cookies)
@@ -63,15 +65,21 @@ yt-dlp "https://www.youtube.com/watch?v=f2AnmLp3wvo"\
     -f 'ba'
 ```
 
+
+
+
 # WINDOWS OS
 ## Installation
 1. check [python](https://www.python.org/downloads/)
+
 python3 --version 
 
 2. download and install [yt-dlp.exe file](https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe)
+
 note: create a folder in drive C and add yt-dlp.exe to it. then add its path to env variable. now you can use yt-dlp command in cmd
 
 3. download and install [ffmpeg.exe file](https://www.gyan.dev/ffmpeg/builds/packages/ffmpeg-2025-08-25-git-1b62f9d3ae-full_build.7z)
+
 note: create a folder in drive C and add ffmpeg.exe to it. then add its path to env variable. now you can use ffmpeg command in cmd
 
 4. add [get cookies plugin](https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc) (chrome extension) and login to youtube and extract cookies. then give file path to the command
